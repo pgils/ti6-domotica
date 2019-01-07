@@ -1,8 +1,6 @@
-<xml>
-    <messagetype>signal</messagetype>
-    <groups>
-        <group>A</group>
-        <group>F</group>
-    </groups>
-    <signal>toggle</signal>
-</xml>
+<messagetype>signal</messagetype>
+<groups>
+    <group>A</group>
+    <group>F</group>
+</groups>
+<signal>toggle</signal>
