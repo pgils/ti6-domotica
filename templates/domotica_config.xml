@@ -1,0 +1,26 @@
+<xml>
+    <messagetype>config</messagetype>
+    <node>
+        <id>323545745</id>
+        <status>Uninitialized</status>
+        <role>actuator</role>
+        <leds>
+            <LD1>1</LD1>
+            <LD2>0xFFFFFF</LD2>
+        </leds>
+    </node>
+    <node>
+        <id>13214556</id>
+        <status>Uninitialized</status>
+        <role>sensor</role>
+        <groups>
+            <group>A</group>
+            <group>B</group>
+        </groups>
+        <signal>knipper</signal>
+        <leds>
+            <LD1>1</LD1>
+            <LD2>0xFFFFFF</LD2>
+        </leds>
+    </node>
+</xml>
