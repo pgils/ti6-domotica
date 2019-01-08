@@ -1,3 +1,6 @@
 [submodule "node/openthread"]
 	path = node/openthread
 	url = https://github.com/pgils/openthread.git
+[submodule "gui/ti6-Domotica-GUI"]
+	path = gui/ti6-Domotica-GUI
+	url = https://github.com/pgils/ti6-Domotica-GUI.git
