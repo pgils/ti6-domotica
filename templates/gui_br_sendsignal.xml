@@ -1,0 +1,6 @@
+<messagetype>sendsignal</messagetype>
+<groups>
+    <group>1</group>
+    <group>3</group>
+</groups>
+<signal>3</signal>
