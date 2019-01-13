@@ -1,0 +1,9 @@
+<messagetype>config</messagetype>
+<eui64>0xDEAD</eui64>
+<status>2</status>
+<role>2</role>
+<groups>
+    <group>2</group>
+    <group>25</group>
+</groups>
+<signal>2</signal>
