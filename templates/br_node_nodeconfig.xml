@@ -1,7 +1,6 @@
 <messagetype>nodeconfig</messagetype>
 <node>
     <eui64>0xDEAD</eui64>
-    <ipaddress>ff22:dd11::dc01/64</ipaddress>
     <status>2</status>
     <role>2</role>
     <groups>
