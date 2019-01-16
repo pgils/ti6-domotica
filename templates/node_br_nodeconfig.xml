@@ -1,7 +1,7 @@
 <messagetype>nodeconfig</messagetype>
 <node>
-    <eui64>0xDEAD</eui64>
-    <ipaddress>ff22:dd11::dc01/64</ipaddress>
+    <eui64>5385214629631229493</eui64>
+    <ipaddress>fd11:22:0:0:a4bc:7b95:37fc:fb50</ipaddress>
     <status>2</status>
     <role>2</role>
     <groups>
