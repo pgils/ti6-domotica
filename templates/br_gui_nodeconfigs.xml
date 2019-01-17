@@ -6,6 +6,7 @@
     <groups>
         <group>2</group>
     </groups>
+    <signal>0</signal>
 </node>
 <node>
     <eui64>1234214629631223412</eui64>
@@ -21,4 +22,5 @@
     <eui64>1234567891234567890</eui64>
     <status>2</status>
     <role>1</role>
+    <signal>2</signal>
 </node>
