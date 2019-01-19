@@ -23,4 +23,7 @@
     <status>2</status>
     <role>1</role>
     <signal>3</signal>
+    <groups>
+        <group>5</group>
+    </groups>
 </node>
