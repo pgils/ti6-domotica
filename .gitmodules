@@ -4,3 +4,6 @@
 [submodule "gui/ti6-Domotica-GUI"]
 	path = gui/ti6-Domotica-GUI
 	url = https://github.com/pgils/ti6-Domotica-GUI.git
+[submodule "borderrouter/gbr-control"]
+	path = borderrouter/gbr-control
+	url = https://github.com/pgils/gbr-control.git
